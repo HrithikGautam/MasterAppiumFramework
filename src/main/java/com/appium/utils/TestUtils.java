@@ -1,8 +1,8 @@
 /**
- * @author Rajat Verma
- * https://www.linkedin.com/in/rajat-v-3b0685128/
- * https://github.com/rajatt95
- * https://rajatt95.github.io/
+ * *@author Hrithik Gautam
+ * https://www.linkedin.com/in/hrithikgautam81/
+ * https://github.com/HrithikGautam
+ * 
  *
  * Course: Appium Mobile Automation - Android & iOS + Frameworks + CICD (https://www.udemy.com/course/the-complete-appium-course-for-ios-and-android/)
  * Tutor: Omprakash Chavan (https://www.udemy.com/user/omprakash-chavan/)
